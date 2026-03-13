@@ -3,7 +3,7 @@
  * Plugin Name: CLK Cloak - User Agent Content Cloaking
  * Plugin URI:
  * Description: Cloaking shortcodes based on user agent. [clk]...[/clk] shows content only to search/crawler bots (e.g. Googlebot) and hides it from human visitors; [clk_user]...[/clk_user] hides content from bots and shows it only to real users (useful for heavy scripts/counters).
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: Vlad
  * Text Domain: clk-cloak
  */
